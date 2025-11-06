@@ -10,13 +10,11 @@
 ---
 
 ### 🛠️ Tech Stack
-💻 **Languages:** C++, Python, JavaScript, TypeScript  
-🌐 **Frontend:** React.js, HTML5, CSS3, Tailwind  
+💻 **Languages:** C++, Python, JavaScript, TypeScript,c,Java 
+🌐 **Frontend:** React.js, HTML5, CSS3
 🖥️ **Backend:** Node.js, Express.js  
 🗄️ **Database:** MongoDB, MySQL  
-🧰 **Tools:** Git, VS Code, Postman, Figma  
-
----
+🧰 **Tools:** Git, VS Code
 
 ### 📊 GitHub Stats
 <p align="center">
