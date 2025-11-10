@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Priyanka-2027/Priyanka-2027/blob/main/banner.png?raw=true" alt="Banner" />
+</p>
+
+
 <h1 align="center">👋 Hi there! I'm Priyanka Jakkampudi</h1>
 <h3 align="center">💻 A Passionate Full Stack Web Developer and Machine Learning Enthusiast dedicated to building impactful digital solutions.</h3>
 
