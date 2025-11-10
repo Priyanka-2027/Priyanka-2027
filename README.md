@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**, **Machine Learning**, and **Data Structures & Algorithms**  
 - 💻 I enjoy developing **Full Stack Web Applications** that solve real-world problems  
-- 🚀 My recent project: [**Pet Adoption Platform**](https://github.com/Priyanka-2027/Pet-Adoption-Platform)  
+- 🚀 My recent project: [**InsightX**](https://github.com/Priyanka-2027/InsightX)  
 - 📫 Reach me at: **[priyankajakkampudi3@gmail.com](mailto:priyankajakkampudi3@gmail.com)**  
 - ⚡ Fun fact: *I debug my code faster with ☕ coffee*  
 
