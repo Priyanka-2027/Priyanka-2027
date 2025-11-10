@@ -25,7 +25,7 @@
 🧰 Node.js | 🚀 Express.js  
 
 **Database & Tools:**  
-🗄️ MongoDB | 🔐 JWT | ☁️ Cloudinary | 🧑‍💻 Git & GitHub  
+🗄️ MongoDB | 🧑‍💻 Git & GitHub  
 
 ---
 
