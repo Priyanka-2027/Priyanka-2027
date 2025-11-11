@@ -2,9 +2,9 @@
   <img src="https://github.com/Priyanka-2027/Priyanka-2027/blob/main/banner.png?raw=true" alt="Banner" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Passionate+Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
-</p> -->
+</p>
 
 <h1 align="center">👋 Hi there! I'm Priyanka Jakkampudi</h1>
 <h3 align="center">💻 A Passionate Full Stack Web Developer and Machine Learning Enthusiast dedicated to building impactful digital solutions.</h3>
@@ -66,9 +66,6 @@
   *A MERN stack web app to help students predict eligible colleges based on rank, gender, caste, and preferences.*  
   **Status:** 🚧 Currently building backend logic & prediction model  
   **Tech Stack:** React, Node.js, Express, MongoDB  
-
----
-
 
 ---
 
