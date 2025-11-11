@@ -2,9 +2,7 @@
   <img src="https://github.com/Priyanka-2027/Priyanka-2027/blob/main/banner.png?raw=true" alt="Banner" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Passionate+Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
-</p>
+
 
 <h1 align="center">👋 Hi there! I'm Priyanka Jakkampudi</h1>
 <h3 align="center">💻 A Passionate Full Stack Web Developer and Machine Learning Enthusiast dedicated to building impactful digital solutions.</h3>
@@ -12,12 +10,14 @@
 ---
 
 <p align="center">
-  <a href="#-about-me">About</a> •
-  <a href="#-technology-stack-️">Tech Stack</a> •
-  <a href="#-featured-projects">Projects</a> •
-  <a href="#-github-stats">Stats</a> •
-  <a href="#-connect-with-me">Connect</a>
+  <a href="#-about-me"><img src="https://img.shields.io/badge/About-1E90FF?style=for-the-badge"/></a>
+  <a href="#-technology-stack-️"><img src="https://img.shields.io/badge/Tech_Stack-1E90FF?style=for-the-badge"/></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-1E90FF?style=for-the-badge"/></a>
+  <a href="#-github-stats"><img src="https://img.shields.io/badge/Stats-1E90FF?style=for-the-badge"/></a>
+  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Connect-1E90FF?style=for-the-badge"/></a>
 </p>
+
+
 
 ---
 
@@ -58,7 +58,7 @@
   *AI-driven content analysis platform providing insights from text and documents.*  
   **Tech Stack:** React, Node.js, Express, MongoDB, OpenAI API  
 
-- 🐾 [**PawfectAdopt**](https://github.com/Priyanka-2027/PawfectAdopt)  
+- 🐾 [**Pawmatch**](https://github.com/Priyanka-2027/PawfectAdopt)  
   *A MERN stack pet adoption platform connecting shelters with adopters.*  
   **Features:** Real-time chat, adoption tracking, dark mode  
 
