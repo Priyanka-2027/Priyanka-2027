@@ -2,8 +2,22 @@
   <img src="https://github.com/Priyanka-2027/Priyanka-2027/blob/main/banner.png?raw=true" alt="Banner" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Passionate+Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
 <h1 align="center">👋 Hi there! I'm Priyanka Jakkampudi</h1>
 <h3 align="center">💻 A Passionate Full Stack Web Developer and Machine Learning Enthusiast dedicated to building impactful digital solutions.</h3>
+
+---
+
+<p align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#-technology-stack-️">Tech Stack</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-github-stats">Stats</a> •
+  <a href="#-connect-with-me">Connect</a>
+</p>
 
 ---
 
@@ -38,6 +52,31 @@
 
 ---
 
+### 🚀 Featured Projects
+
+- 🧠 [**InsightX**](https://github.com/Priyanka-2027/InsightX)  
+  *AI-driven content analysis platform providing insights from text and documents.*  
+  **Tech Stack:** React, Node.js, Express, MongoDB, OpenAI API  
+
+- 🐾 [**PawfectAdopt**](https://github.com/Priyanka-2027/PawfectAdopt)  
+  *A MERN stack pet adoption platform connecting shelters with adopters.*  
+  **Features:** Real-time chat, adoption tracking, dark mode  
+
+- 🎓 [**AP EAMCET College Predictor**](https://github.com/Priyanka-2027/AP-EAMCET-College-Predictor)  
+  *Helps students predict eligible colleges based on rank, gender, and preferences.*  
+  **Tech Stack:** React, Node.js, Express, MongoDB  
+
+---
+
+### 🏆 Achievements & Certifications
+
+- 🎓 Certified in **Machine Learning** (Coursera – Andrew Ng)  
+- 🏅 **5-star C++** on HackerRank  
+- 🌟 Contributor to Open Source Projects  
+- 💡 Active participant in **Hackathons** & Tech Events  
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -47,6 +86,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka-2027&layout=compact&theme=tokyonight" alt="Top Languages" height="150em"/>
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Priyanka-2027&label=Profile%20Views&color=blueviolet&style=flat" alt="views"/>
 </p>
 
 ---
