@@ -2,8 +2,6 @@
   <img src="https://github.com/Priyanka-2027/Priyanka-2027/blob/main/banner.png?raw=true" alt="Banner" />
 </p>
 
-
-
 <h1 align="center">👋 Hi there! I'm Priyanka Jakkampudi</h1>
 <h3 align="center">💻 A Passionate Full Stack Web Developer and Machine Learning Enthusiast dedicated to building impactful digital solutions.</h3>
 
@@ -16,8 +14,6 @@
   <a href="#-github-stats"><img src="https://img.shields.io/badge/Stats-1E90FF?style=for-the-badge"/></a>
   <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Connect-1E90FF?style=for-the-badge"/></a>
 </p>
-
-
 
 ---
 
@@ -80,12 +76,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka-2027&layout=compact&theme=tokyonight" alt="Top Languages" height="150em"/>
 </p>
 
+---
+
+### 👁️ Profile Views
+
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Priyanka-2027&label=Profile%20Views&color=blueviolet&style=flat" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=Priyanka-2027&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="views"/>
 </p>
 
 ---
-
 
 ### 🌟 Connect with Me
 
@@ -100,9 +99,6 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-
-
 
 ---
 
