@@ -11,6 +11,7 @@
   <a href="#-about-me"><img src="https://img.shields.io/badge/About-1E90FF?style=for-the-badge"/></a>
   <a href="#-technology-stack-️"><img src="https://img.shields.io/badge/Tech_Stack-1E90FF?style=for-the-badge"/></a>
   <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-1E90FF?style=for-the-badge"/></a>
+  <a href="#-current-focus"><img src="https://img.shields.io/badge/Focus-1E90FF?style=for-the-badge"/></a>
   <a href="#-github-stats"><img src="https://img.shields.io/badge/Stats-1E90FF?style=for-the-badge"/></a>
   <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Connect-1E90FF?style=for-the-badge"/></a>
 </p>
@@ -68,6 +69,19 @@
   *An AI-powered recruitment platform that automates resume parsing, profile creation, and candidate–employer matching.*  
   **Features:** AI-based resume parsing, auto profile filling, role-based dashboards  
   **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, OpenAI API  
+
+---
+
+### 🎯 Current Focus  
+
+- 🔹 Building **TalentHub** – AI-powered recruitment platform with resume parsing  
+- 🔹 Exploring **LLM integration** for smarter and context-aware web applications  
+- 🔹 Strengthening **Data Structures & Algorithms** through daily **LeetCode** practice  
+- 🔹 Contributing consistently to **GitHub** through open-source and personal MERN projects  
+- 🔹 Preparing for **internship opportunities** in **AI & ML** and **Full-Stack Development**  
+- 🔹 Participating in **hackathons** and **collaborative tech events** to enhance teamwork and problem-solving skills  
+
+⭐ *Focused on merging AI with full-stack innovation to build real-world solutions.*
 
 ---
 
