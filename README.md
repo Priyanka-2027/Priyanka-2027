@@ -12,6 +12,7 @@
   <a href="#-technology-stack-️"><img src="https://img.shields.io/badge/Tech_Stack-1E90FF?style=for-the-badge"/></a>
   <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-1E90FF?style=for-the-badge"/></a>
   <a href="#-current-focus"><img src="https://img.shields.io/badge/Focus-1E90FF?style=for-the-badge"/></a>
+  <a href="#-tech-interests"><img src="https://img.shields.io/badge/Interests-1E90FF?style=for-the-badge"/></a>
   <a href="#-github-stats"><img src="https://img.shields.io/badge/Stats-1E90FF?style=for-the-badge"/></a>
   <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Connect-1E90FF?style=for-the-badge"/></a>
 </p>
@@ -38,7 +39,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -82,6 +82,16 @@
 - 🔹 Participating in **hackathons** and **collaborative tech events** to enhance teamwork and problem-solving skills  
 
 ⭐ *Focused on merging AI with full-stack innovation to build real-world solutions.*
+
+---
+
+### 💡 Tech Interests  
+
+- 🤖 **Artificial Intelligence** – building intelligent systems that learn and adapt  
+- 🧠 **Machine Learning** – creating predictive models and data-driven insights  
+- 🗣️ **Large Language Models (LLMs) & Generative AI** – developing smart, context-aware applications  
+- ⚙️ **Full Stack Development (MERN)** – designing scalable, end-to-end web solutions  
+- ☁️ **AWS & Cloud Fundamentals** – deploying and managing applications efficiently  
 
 ---
 
