@@ -55,11 +55,6 @@
   *AI-driven content analysis platform providing insights from text and documents.*  
   **Tech Stack:** React, Node.js, Express, MongoDB, OpenAI API  
 
-- 🧩 [**TalentHub**](https://github.com/Priyanka-2027/TalentHub) *(In Progress)*  
-  *An AI-powered recruitment platform that automates resume parsing, profile creation, and candidate–employer matching.*  
-  **Features:** AI-based resume parsing, auto profile filling, role-based dashboards  
-  **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, OpenAI API  
-
 - 🐾 [**Pawmatch**](https://github.com/Priyanka-2027/PawfectAdopt)  
   *A MERN stack pet adoption platform connecting shelters with adopters.*  
   **Features:** Real-time chat, adoption tracking, dark mode  
@@ -67,7 +62,12 @@
 - 🎓 [**AP EAMCET College Predictor**](https://github.com/Priyanka-2027/AP-EAMCET-College-Predictor) *(In Progress)*  
   *A MERN stack web app to help students predict eligible colleges based on rank, gender, caste, and preferences.*  
   **Status:** 🚧 Currently building backend logic & prediction model  
-  **Tech Stack:** React, Node.js, Express, MongoDB  
+  **Tech Stack:** React, Node.js, Express, MongoDB
+
+- 🧩 [**TalentHub**](https://github.com/Priyanka-2027/TalentHub) *(In Progress)*  
+  *An AI-powered recruitment platform that automates resume parsing, profile creation, and candidate–employer matching.*  
+  **Features:** AI-based resume parsing, auto profile filling, role-based dashboards  
+  **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, OpenAI API  
 
 ---
 
