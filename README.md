@@ -22,6 +22,7 @@
 - 🌱 I’m currently learning **MERN Stack**, **Machine Learning**, and **Data Structures & Algorithms**  
 - 💻 I enjoy developing **Full Stack Web Applications** that solve real-world problems  
 - 🚀 My recent project: [**InsightX**](https://github.com/Priyanka-2027/InsightX)  
+- 🧩 Currently building: [**TalentHub**](https://github.com/Priyanka-2027/TalentHub) – *An AI-powered recruitment platform*  
 - 📫 Reach me at: **[priyankajakkampudi3@gmail.com](mailto:priyankajakkampudi3@gmail.com)**  
 - ⚡ Fun fact: *I debug my code faster with ☕ coffee*  
 
@@ -53,6 +54,11 @@
 - 🧠 [**InsightX**](https://github.com/Priyanka-2027/InsightX)  
   *AI-driven content analysis platform providing insights from text and documents.*  
   **Tech Stack:** React, Node.js, Express, MongoDB, OpenAI API  
+
+- 🧩 [**TalentHub**](https://github.com/Priyanka-2027/TalentHub) *(In Progress)*  
+  *An AI-powered recruitment platform that automates resume parsing, profile creation, and candidate–employer matching.*  
+  **Features:** AI-based resume parsing, auto profile filling, role-based dashboards  
+  **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, OpenAI API  
 
 - 🐾 [**Pawmatch**](https://github.com/Priyanka-2027/PawfectAdopt)  
   *A MERN stack pet adoption platform connecting shelters with adopters.*  
