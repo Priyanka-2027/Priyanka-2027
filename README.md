@@ -87,11 +87,11 @@
 
 ### 💡 Tech Interests  
 
-- 🤖 **Artificial Intelligence** – building intelligent systems that learn and adapt  
-- 🧠 **Machine Learning** – creating predictive models and data-driven insights  
-- 🗣️ **Large Language Models (LLMs) & Generative AI** – developing smart, context-aware applications  
-- ⚙️ **Full Stack Development (MERN)** – designing scalable, end-to-end web solutions  
-- ☁️ **AWS & Cloud Fundamentals** – deploying and managing applications efficiently  
+- 🤖 **Artificial Intelligence** – building intelligent systems that learn and adapt.  
+- 🧠 **Machine Learning** – creating predictive models and data-driven insights.  
+- 🗣️ **Large Language Models (LLMs) & Generative AI** – developing smart, context-aware applications. 
+- ⚙️ **Full Stack Development (MERN)** – designing scalable, end-to-end web solutions. 
+- ☁️ **AWS & Cloud Fundamentals** – deploying and managing applications efficiently.
 
 ---
 
