@@ -57,7 +57,7 @@
   **Tech Stack:** React, Node.js, Express, MongoDB, OpenAI API  
 
 - 🐾 [**Pawmatch**](https://github.com/Priyanka-2027/PawfectAdopt)  
-  *A MERN stack pet adoption platform connecting shelters with adopters.*  
+  *A MERN stack pet adoption platform connecting shelters with adopters*  
   **Features:** Real-time chat, adoption tracking, dark mode  
 
 - 🎓 [**AP EAMCET College Predictor**](https://github.com/Priyanka-2027/AP-EAMCET-College-Predictor) *(In Progress)*  
