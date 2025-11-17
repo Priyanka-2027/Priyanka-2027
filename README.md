@@ -46,6 +46,9 @@
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  
+  <!-- Added NumPy -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
 ---
@@ -122,14 +125,4 @@
   <a href="https://github.com/Priyanka-2027" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/priyanka-jakkampudi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:priyankajakkampudi3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-⭐️ *"Striving to turn ideas into impactful digital experiences."* 🚀
+  <a href="https://www.linkedin.com/in/priyanka-jakk
