@@ -85,7 +85,7 @@
 - 🔹 Preparing for **internship opportunities** in **AI & ML** and **Full-Stack Development**  
 - 🔹 Participating in **hackathons** and **collaborative tech events** to enhance teamwork and problem-solving skills  
 
-⭐ *Focused on merging AI with full-stack innovation to build real-world solutions.*
+⭐ *Focused on merging AI with full-stack innovation to build real-world solutions*
 
 ---
 
