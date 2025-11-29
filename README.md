@@ -58,7 +58,7 @@
 
 - 🧠 [**InsightX**](https://github.com/Priyanka-2027/InsightX)  
   *AI-driven content analysis platform providing insights from text and documents*  
-  **Tech Stack:** React, Node.js, Express, MongoDB, OpenAI API  
+  **Tech Stack:** React, Node.js, Express, MongoDB, OpenAI API .
 
 - 🐾 [**Pawmatch**](https://github.com/Priyanka-2027/PawfectAdopt)  
   *A MERN stack pet adoption platform connecting shelters with adopters*  
