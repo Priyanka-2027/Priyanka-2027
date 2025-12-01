@@ -78,7 +78,7 @@
 
 ### 🎯 Current Focus  
 
-- 🔹 Building **TalentHub** – AI-powered recruitment platform with resume parsing  
+- 🔹 Building **TalentHub** – AI-powered recruitment platform with resume parsing.
 - 🔹 Exploring **LLM integration** for smarter and context-aware web applications  
 - 🔹 Strengthening **Data Structures & Algorithms** through daily **LeetCode** practice  
 - 🔹 Contributing consistently to **GitHub** through open-source and personal MERN projects  
