@@ -81,7 +81,7 @@
 - 🔹 Building **TalentHub** – AI-powered recruitment platform with resume parsing.
 - 🔹 Exploring **LLM integration** for smarter and context-aware web applications  
 - 🔹 Strengthening **Data Structures & Algorithms** through daily **LeetCode** practice  
-- 🔹 Contributing consistently to **GitHub** through open-source and personal MERN projects  
+- 🔹 Contributing consistently to **GitHub** through open-source and personal MERN projects.  
 - 🔹 Preparing for **internship opportunities** in **AI & ML** and **Full-Stack Development**  
 - 🔹 Participating in **hackathons** and **collaborative tech events** to enhance teamwork and problem-solving skills  
 
