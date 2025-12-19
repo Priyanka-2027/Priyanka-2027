@@ -72,7 +72,7 @@
 - 🧩 [**TalentHub**](https://github.com/Priyanka-2027/TalentHub) *(In Progress)*  
   *An AI-powered recruitment platform that automates resume parsing, profile creation, and candidate–employer matching.*  
   **Features:** AI-based resume parsing, auto profile filling, role-based dashboards
-  **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, OpenAI API.
+  **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, OpenAI API
 
 ---
 
