@@ -21,7 +21,7 @@
 
 ### 👩‍💻 About Me
 
-- 🌱 I’m currently learning **MERN Stack**, **Machine Learning**, and **Data Structures & Algorithms**.
+- 🌱 I'm currently learning **MERN Stack**, **Machine Learning**, and **Data Structures & Algorithms**.
 - 💻 I enjoy developing **Full Stack Web Applications** that solve real-world problems
 - 🚀 My recent project: [**InsightX**](https://github.com/Priyanka-2027/InsightX)  
 - 🧩 Currently building: [**TalentHub**](https://github.com/Priyanka-2027/TalentHub) – *An AI-powered recruitment platform*  
@@ -47,8 +47,6 @@
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  
-  <!-- Added NumPy -->
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
@@ -71,7 +69,7 @@
 
 - 🧩 [**TalentHub**](https://github.com/Priyanka-2027/TalentHub) *(In Progress)*  
   *An AI-powered recruitment platform that automates resume parsing, profile creation, and candidate–employer matching.*  
-  **Features:** AI-based resume parsing, auto profile filling, role-based dashboards
+  **Features:** AI-based resume parsing, auto profile filling, role-based dashboards  
   **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, OpenAI API
 
 ---
@@ -126,4 +124,13 @@
   <a href="https://github.com/Priyanka-2027" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/priyanka-jakk
+  <a href="https://www.linkedin.com/in/priyanka-jakkampudi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/Priyanka_2027" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:priyankajakkampudi3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
