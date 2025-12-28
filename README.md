@@ -22,7 +22,7 @@
 ### 👩‍💻 About Me
 
 - 🌱 I'm currently learning **MERN Stack**, **Machine Learning**, and **Data Structures & Algorithms**.
-- 💻 I enjoy developing **Full Stack Web Applications** that solve real-world problems
+- 💻 I enjoy developing **Full Stack Web Applications** that solve real-world problems.
 - 🚀 My recent project: [**InsightX**](https://github.com/Priyanka-2027/InsightX)  
 - 🧩 Currently building: [**TalentHub**](https://github.com/Priyanka-2027/TalentHub) – *An AI-powered recruitment platform*  
 - 📫 Reach me at: **[priyankajakkampudi3@gmail.com](mailto:priyankajakkampudi3@gmail.com)**  
@@ -58,9 +58,17 @@
   *AI-driven content analysis platform providing insights from text and documents*  
   **Tech Stack:** React, Node.js, Express, MongoDB, OpenAI API
 
+- 🔍 [**Fraud Detection System**](https://github.com/Priyanka-2027/MLL)  
+  *Advanced machine learning system for detecting fraudulent transactions with high accuracy*  
+  **Features:**  
+  - Evaluated multiple ML models: Logistic Regression, SVM, Decision Tree, Random Forest  
+  - Achieved **99.8% accuracy** using the Random Forest model  
+  - Detailed model comparison and performance analysis  
+  **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Jupyter Notebook
+
 - 🐾 [**Pawmatch**](https://github.com/Priyanka-2027/PawfectAdopt)  
   *A MERN stack pet adoption platform connecting shelters with adopters*  
-  **Features:** Real-time chat, adoption tracking, dark mode.
+  **Features:** Real-time chat, adoption tracking, dark mode
 
 - 🎓 [**AP EAMCET College Predictor**](https://github.com/Priyanka-2027/AP-EAMCET-College-Predictor) *(In Progress)*  
   *A MERN stack web app to help students predict eligible colleges based on rank, gender, caste, and preferences*  
@@ -68,7 +76,7 @@
   **Tech Stack:** React, Node.js, Express, MongoDB
 
 - 🧩 [**TalentHub**](https://github.com/Priyanka-2027/TalentHub) *(In Progress)*  
-  *An AI-powered recruitment platform that automates resume parsing, profile creation, and candidate–employer matching.*  
+  *An AI-powered recruitment platform that automates resume parsing, profile creation, and candidate–employer matching*  
   **Features:** AI-based resume parsing, auto profile filling, role-based dashboards  
   **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, OpenAI API
 
@@ -76,12 +84,11 @@
 
 ### 🎯 Current Focus  
 
-- 🔹 Building **TalentHub** – AI-powered recruitment platform with resume parsing.
-- 🔹 Exploring **LLM integration** for smarter and context-aware web applications  
-- 🔹 Strengthening **Data Structures & Algorithms** through daily **LeetCode** practice  
-- 🔹 Contributing consistently to **GitHub** through open-source and personal MERN projects.  
-- 🔹 Preparing for **internship opportunities** in **AI & ML** and **Full-Stack Development**  
-- 🔹 Participating in **hackathons** and **collaborative tech events** to enhance teamwork and problem-solving skills  
+- 🔹 Building **TalentHub** – AI-powered recruitment platform with resume parsing  
+- 🔹 Exploring **LLM integration** for smarter, context-aware applications  
+- 🔹 Strengthening **Data Structures & Algorithms** via daily **LeetCode** practice  
+- 🔹 Contributing consistently to **GitHub** through MERN & ML projects  
+- 🔹 Preparing for **AI/ML & Full-Stack internships**  
 
 ⭐ *Focused on merging AI with full-stack innovation to build real-world solutions*
 
@@ -89,31 +96,23 @@
 
 ### 💡 Tech Interests  
 
-- 🤖 **Artificial Intelligence** – building intelligent systems that learn and adapt.  
-- 🧠 **Machine Learning** – creating predictive models and data-driven insights
-- 🗣️ **Large Language Models (LLMs) & Generative AI** – developing smart, context-aware applications. 
-- ⚙️ **Full Stack Development (MERN)** – designing scalable, end-to-end web solutions. 
-- ☁️ **AWS & Cloud Fundamentals** – deploying and managing applications efficiently.
+- 🤖 Artificial Intelligence  
+- 🧠 Machine Learning  
+- 🗣️ LLMs & Generative AI  
+- ⚙️ Full Stack Development (MERN)  
+- ☁️ AWS & Cloud Fundamentals  
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanka-2027&show_icons=true&theme=tokyonight" alt="Priyanka's GitHub stats" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanka-2027&theme=tokyonight" alt="Priyanka's GitHub streak stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanka-2027&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanka-2027&theme=tokyonight" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka-2027&layout=compact&theme=tokyonight" alt="Top Languages" height="150em"/>
-</p>
-
----
-
-### 👁️ Profile Views
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Priyanka-2027&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="views"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka-2027&layout=compact&theme=tokyonight" height="150em"/>
 </p>
 
 ---
@@ -121,16 +120,8 @@
 ### 🌟 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/Priyanka-2027" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/priyanka-jakkampudi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/Priyanka_2027" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:priyankajakkampudi3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://github.com/Priyanka-2027"><img src="https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/priyanka-jakkampudi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/Priyanka_2027"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:priyankajakkampudi3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
