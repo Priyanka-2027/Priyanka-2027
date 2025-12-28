@@ -72,6 +72,13 @@
   **Features:** AI-based resume parsing, auto profile filling, role-based dashboards  
   **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, OpenAI API
 
+  - 🔍 [**Fraud Detection System**](https://github.com/Priyanka-2027/MLL)  
+  *Advanced machine learning system for detecting fraudulent transactions with high accuracy*  
+  **Features:**  
+  - Multiple ML models tested (Logistic Regression, SVM, Decision Tree, Random Forest)  
+  - Achieved **99.8% accuracy** with Random Forest  
+  - Comprehensive model comparison and analysis  
+  **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Jupyter
 ---
 
 ### 🎯 Current Focus  
