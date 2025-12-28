@@ -107,15 +107,23 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanka-2027&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanka-2027&theme=tokyonight" height="180em"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Priyanka-2027&show_icons=true&theme=tokyonight&cache_seconds=86400" 
+    height="180em"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=Priyanka-2027&theme=tokyonight&cache_seconds=86400" 
+    height="180em"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka-2027&layout=compact&theme=tokyonight" height="150em"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka-2027&layout=compact&theme=tokyonight&cache_seconds=86400" 
+    height="150em"
+  />
 </p>
 
----
 
 ### 🌟 Connect with Me
 
