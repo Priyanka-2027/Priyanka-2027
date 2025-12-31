@@ -56,7 +56,7 @@
 
 - 🧠 [**InsightX**](https://github.com/Priyanka-2027/InsightX)  
   *AI-driven content analysis platform providing insights from text and documents*  
-  **Tech Stack:** React, Node.js, Express, MongoDB, OpenAI API
+  **Tech Stack:** React, Node.js, Express, MongoDB, OpenAI API.
 
 - 🔍 [**Fraud Detection System**](https://github.com/Priyanka-2027/MLL)  
   *Advanced machine learning system for detecting fraudulent transactions with high accuracy*  
