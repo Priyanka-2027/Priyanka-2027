@@ -26,7 +26,7 @@
 - 🚀 My recent project: [**InsightX**](https://github.com/Priyanka-2027/InsightX)  
 - 🧩 Currently building: [**TalentHub**](https://github.com/Priyanka-2027/TalentHub) – *An AI-powered recruitment platform*  
 - 📫 Reach me at: **[priyankajakkampudi3@gmail.com](mailto:priyankajakkampudi3@gmail.com)**  
-- ⚡ Fun fact: *I debug my code faster with ☕ coffee*  
+- ⚡ Fun fact: *I debug my code faster with ☕ coffee.*  
 
 ---
 
