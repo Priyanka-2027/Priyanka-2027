@@ -63,7 +63,7 @@
   **Features:**  
   - Evaluated multiple ML models: Logistic Regression, SVM, Decision Tree, Random Forest  
   - Achieved **99.8% accuracy** using the Random Forest model  
-  - Detailed model comparison and performance analysis  
+  - Detailed model comparison and performance analysis .
   **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Jupyter Notebook
 
 - 🐾 [**Pawmatch**](https://github.com/Priyanka-2027/PawfectAdopt)  
