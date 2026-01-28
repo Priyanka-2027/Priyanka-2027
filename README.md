@@ -90,7 +90,7 @@
 - 🔹 Contributing consistently to **GitHub** through MERN & ML projects .
 - 🔹 Preparing for **AI/ML & Full-Stack internships**  
 
-⭐ *Focused on merging AI with full-stack innovation to build real-world solutions*
+⭐ *Focused on merging AI with full-stack innovation to build real-world solutions.*
 
 ---
 
