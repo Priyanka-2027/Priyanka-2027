@@ -70,7 +70,7 @@
   *A MERN stack pet adoption platform connecting shelters with adopters*  
   **Features:** Real-time chat, adoption tracking, dark mode
 
-- 🎓 [**AP EAMCET College Predictor**](https://github.com/Priyanka-2027/AP-EAMCET-College-Predictor)
+- 🎓 [**AP EAMCET College Predictor**](https://github.com/Priyanka-2027/Eamcet_college_predictor)
   *A MERN stack web app to help students predict eligible colleges based on rank, gender, caste, and preferences*  
   **Status:** 🚧 Currently building backend logic & prediction model  
   **Tech Stack:** React, Node.js, Express, MongoDB
