@@ -22,7 +22,7 @@
 ### 👩‍💻 About Me
 
 - 🌱 I'm currently learning **MERN Stack**, **Machine Learning**, and **Data Structures & Algorithms**.
-- 💻 I enjoy developing **Full Stack Web Applications** that solve real-world problems
+- 💻 I enjoy developing **Full Stack Web Applications** that solve real-world problems.
 - 🚀 My recent project: [**InsightX**](https://github.com/Priyanka-2027/InsightX)  
 - 🧩 Currently building: [**TalentHub**](https://github.com/Priyanka-2027/TalentHub) – *An AI-powered recruitment platform*  
 - 📫 Reach me at: **[priyankajakkampudi3@gmail.com](mailto:priyankajakkampudi3@gmail.com)**  
