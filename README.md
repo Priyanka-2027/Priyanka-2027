@@ -1,145 +1,171 @@
-<p align="center">
-  <img src="https://github.com/Priyanka-2027/Priyanka-2027/blob/main/banner.png?raw=true" alt="Banner" />
-</p>
+<p align="center"><img src="https://github.com/Priyanka-2027/Priyanka-2027/blob/main/banner.png?raw=true" alt="Banner" /></p>
 
 <h1 align="center">👋 Hi there! I'm Priyanka Jakkampudi</h1>
-<h3 align="center">💻 A Passionate Full Stack Web Developer and Machine Learning Enthusiast dedicated to building impactful digital solutions</h3>
+<h3 align="center">💻 B.Tech Computer Science Student | Full Stack Developer | AI/ML Enthusiast</h3>
 
 ---
 
 <p align="center">
-  <a href="#-about-me"><img src="https://img.shields.io/badge/About-1E90FF?style=for-the-badge"/></a>
-  <a href="#-technology-stack-️"><img src="https://img.shields.io/badge/Tech_Stack-1E90FF?style=for-the-badge"/></a>
-  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-1E90FF?style=for-the-badge"/></a>
-  <a href="#-current-focus"><img src="https://img.shields.io/badge/Focus-1E90FF?style=for-the-badge"/></a>
-  <a href="#-tech-interests"><img src="https://img.shields.io/badge/Interests-1E90FF?style=for-the-badge"/></a>
-  <a href="#-github-stats"><img src="https://img.shields.io/badge/Stats-1E90FF?style=for-the-badge"/></a>
-  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Connect-1E90FF?style=for-the-badge"/></a>
+<a href="#-about-me"><img src="https://img.shields.io/badge/About-1E90FF?style=for-the-badge"/></a>
+<a href="#-technology-stack-️"><img src="https://img.shields.io/badge/Tech_Stack-1E90FF?style=for-the-badge"/></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-1E90FF?style=for-the-badge"/></a>
+<a href="#-experience"><img src="https://img.shields.io/badge/Experience-1E90FF?style=for-the-badge"/></a>
+<a href="#-certifications"><img src="https://img.shields.io/badge/Certifications-1E90FF?style=for-the-badge"/></a>
+<a href="#-github-stats"><img src="https://img.shields.io/badge/Stats-1E90FF?style=for-the-badge"/></a>
+<a href="#-connect-with-me"><img src="https://img.shields.io/badge/Connect-1E90FF?style=for-the-badge"/></a>
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🌱 I'm currently learning **MERN Stack**, **Machine Learning**, and **Data Structures & Algorithms**.
-- 💻 I enjoy developing **Full Stack Web Applications** that solve real-world problems.
-- 🚀 My recent project: [**InsightX**](https://github.com/Priyanka-2027/InsightX)  
-- 🧩 Currently building: [**TalentHub**](https://github.com/Priyanka-2027/TalentHub) – *An AI-powered recruitment platform*  
-- 📫 Reach me at: **[priyankajakkampudi3@gmail.com](mailto:priyanka.jakkampudi3@gmail.com)**  
-- ⚡ Fun fact: *I debug my code faster with ☕ coffee.*  
+- 🎓 **B.Tech CSE @ SRM University AP** - Building expertise in Computer Science fundamentals
+- 💻 **Full Stack Developer (MERN) + AI/ML Enthusiast** - Creating end-to-end digital solutions
+- 🚀 **Built 6+ real-world projects** in AI, Web Development, and Data Systems with production-ready code
+- 🧠 **Solved 250+ DSA problems** on LeetCode - Strong algorithmic problem-solving skills
+- 🎯 **Actively seeking Software Engineering & AI/ML roles** - Ready to contribute to innovative teams
+- 📍 **Based in India** - Open to remote and on-site opportunities
+- 🔥 Recent highlight: [**InsightX AI**](https://github.com/Priyanka-2027/InsightX) - Medical imaging analysis platform achieving **98% accuracy**
+- 🚀 Currently building: [**AP EAMCET College Predictor**](https://github.com/Priyanka-2027/Eamcet_college_predictor) – *Smart college prediction system using real admission data*
+- � Reach me at: **[priyanka.jakkampudi3@gmail.com](mailto:priyanka.jakkampudi3@gmail.com)
 
 ---
 
 ### 🧠 Technology Stack 🛠️
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
+**Languages:** C, C++, Java, Python, JavaScript, TypeScript  
+**Frontend:** React, HTML5, CSS3, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, MySQL  
+**AI/ML:** TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas  
+**Tools:** Git, GitHub, AWS  
+
+**Core CS:** DSA • OOP • DBMS • Computer Networks • Deep Learning
+
+---
+
+### 💡 What I Can Do
+
+✔️ **Build full-stack MERN applications** with modern UI/UX and scalable architecture  
+✔️ **Develop and deploy ML models** with 95%+ accuracy for real-world problems  
+✔️ **Design REST APIs and scalable backend systems** with optimized database queries  
+✔️ **Solve DSA problems efficiently** with strong algorithmic thinking (250+ solved)  
+✔️ **Work with real-world datasets and analytics** for data-driven insights  
+✔️ **Implement CI/CD pipelines** and deploy applications to cloud platforms
 
 ---
 
 ### 🚀 Featured Projects
 
-- 🧠 [**InsightX**](https://github.com/Priyanka-2027/InsightX)  
-  *AI-driven content analysis platform providing insights from text and documents*  
-  **Tech Stack:** React, Node.js, Express, MongoDB, OpenAI API.
+#### 🧠 [**InsightX AI**](https://github.com/Priyanka-2027/InsightX) | [Live Demo](https://chanu716.github.io/InsightX/)
+*Medical Imaging Analysis Platform*
+- Built a **deep learning platform** that detects medical abnormalities from MRI, X-ray, and CT scans with **98% accuracy**
+- Implemented **EfficientNet and DenseNet models** for processing 3 imaging modalities with real-time analysis
+- **Tech Stack:** TensorFlow, PyTorch, Flask, Computer Vision
 
-- 🔍 [**Fraud Detection System**](https://github.com/Priyanka-2027/MLL)  
-  *Advanced machine learning system for detecting fraudulent transactions with high accuracy*  
-  **Features:**  
-  - Evaluated multiple ML models: Logistic Regression, SVM, Decision Tree, Random Forest  
-  - Achieved **99.8% accuracy** using the Random Forest model  
-  - Detailed model comparison and performance analysis .
-  **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Jupyter Notebook
+#### 🎓 [**AP EAMCET College Predictor**](https://github.com/Priyanka-2027/Eamcet_college_predictor)
+*Educational Platform*
+- Developed a **college prediction system** analyzing **1000+ rank scenarios** using real admission data
+- Features **JWT-secured dashboard** with personalized recommendations for informed decision-making
+- **Tech Stack:** React, Node.js, Express, MongoDB
 
-- 🐾 [**Pawmatch**](https://github.com/Priyanka-2027/PawfectAdopt)  
-  *A MERN stack pet adoption platform connecting shelters with adopters*  
-  **Features:** Real-time chat, adoption tracking, dark mode
+#### 🐾 [**PawMatch - Pet Adoption Platform**](https://github.com/Priyanka-2027/Pet-Adoption-Platform)
+*Full Stack Application*
+- Created a comprehensive **pet adoption platform** connecting shelters with adopters
+- Implemented **real-time updates**, advanced filtering by breed/age/location, and secure authentication
+- **Tech Stack:** React, TypeScript, Tailwind CSS, Supabase
 
-- 🎓 [**AP EAMCET College Predictor**](https://github.com/Priyanka-2027/Eamcet_college_predictor)
-  *A MERN stack web app to help students predict eligible colleges based on rank, gender, caste, and preferences*  
-  **Status:** 🚧 Currently building backend logic & prediction model  
-  **Tech Stack:** React, Node.js, Express, MongoDB
+#### 🛡️ [**Financial Fraud Detection System**](https://github.com/Priyanka-2027/Fraud_detecion_using_RandomForest)
+*Real-time ML System*
+- Developed a **machine learning system** achieving **99.8% accuracy** in detecting fraudulent transactions
+- Built **FastAPI backend** for real-time transaction analysis with sub-second response times
+- **Features:** Multiple ML model comparison (Logistic Regression, SVM, Decision Tree, Random Forest)
+- **Tech Stack:** Python, FastAPI, Scikit-learn, Pandas, NumPy
 
-- 🧩 [**TalentHub**](https://github.com/Priyanka-2027/TalentHub) *(In Progress)*  
-  *An AI-powered recruitment platform that automates resume parsing, profile creation, and candidate–employer matching*  
-  **Features:** AI-based resume parsing, auto profile filling, role-based dashboards  
-  **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, OpenAI API.
+#### ✈️ [**Travellora**](https://github.com/Priyanka-2027/Travellora-trip_planner_app-)
+*Travel Planning Platform*
+- Built an **interactive travel planning platform** with destination discovery and trip management
+- Integrated **Leaflet maps** for location search and real-time booking functionality
+- **Tech Stack:** React, Leaflet Maps, Tailwind CSS
+
+#### 🚀 [**Career Reboot AI**](https://github.com/Priyanka-2027/career-reboot-ai)
+*AI Career Platform*
+- Created an **AI-powered career platform** empowering women to restart their careers
+- Features **personalized skill gap analysis**, custom learning roadmaps, and mentor matching
+- **Tech Stack:** React, TypeScript, Tailwind CSS
 
 ---
 
-### 🎯 Current Focus  
+### 💼 Experience
 
-- 🔹 Building **TalentHub** – AI-powered recruitment platform with resume parsing  
-- 🔹 Exploring **LLM integration** for smarter, context-aware applications  
-- 🔹 Strengthening **Data Structures & Algorithms** via daily **LeetCode** practice  
-- 🔹 Contributing consistently to **GitHub** through MERN & ML projects .
-- 🔹 Preparing for **AI/ML & Full-Stack internships**  
-
-⭐ *Focused on merging AI with full-stack innovation to build real-world solutions.*
+**Full Stack Developer Intern** | *Edubot Technologies* | *June 2025 – July 2025*
+- Developed **full-stack pet adoption platform** with secure authentication and real-time updates using React, TypeScript, and Tailwind CSS
+- Designed **REST APIs and optimized database queries** improving response time by 40% for seamless user workflows
+- Implemented **responsive UI components** improving user experience across devices and increasing mobile engagement
+- Built end-to-end features for **pet management, adoption tracking, and user profiles** with comprehensive admin dashboards
+- Collaborated with cross-functional teams to deliver **production-ready code** following industry best practices
 
 ---
 
-### 💡 Tech Interests  
+### 🏆 Certifications
 
-- 🤖 Artificial Intelligence  
-- 🧠 Machine Learning  
-- 🗣️ LLMs & Generative AI  
-- ⚙️ Full Stack Development (MERN)  
-- ☁️ AWS & Cloud Fundamentals  
+- 🎯 **Full Stack Web Development** - Udemy (2025)
+- 📊 **Data Science & EDA** - Scaler Topics (2025)  
+- ☁️ **AWS Cloud Fundamentals** - Scaler Topics (2025)
+- 🔧 **MERN Full Stack Web Development Internship** - Edubot Technologies (2025)
+
+---
+
+### 🎯 Current Focus
+
+- 🔹 Building **AI-powered applications** with LLM integration for smarter, context-aware solutions
+- 🔹 Strengthening **Data Structures & Algorithms** via daily **LeetCode** practice (250+ problems solved)
+- 🔹 Exploring **advanced machine learning** techniques and model optimization
+- 🔹 Contributing consistently to **GitHub** through MERN & ML projects
+- 🔹 Preparing for **AI/ML & Full-Stack internships** and software engineering roles
+
+⭐ *Focused on merging AI with full-stack innovation to build impactful real-world solutions.*
+
+---
+
+### 💡 Tech Interests
+
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🧠 **Large Language Models & Generative AI**
+- ⚙️ **Full Stack Development (MERN Stack)**
+- 🔍 **Computer Vision & Deep Learning**
+- ☁️ **AWS & Cloud Computing**
+- 📊 **Data Science & Analytics**
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanka-2027&theme=tokyonight"
-  />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanka-2027&theme=tokyonight"/>
 </p>
-
-<!-- <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanka-2027&theme=tokyonight"
-    height="180em"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyanka-2027&theme=tokyonight"
-    height="180em"
-  />
-</p> -->
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanka-2027&theme=tokyonight"
-    height="180em"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanka-2027&theme=tokyonight&utcOffset=5.5"
-    height="180em"
-  />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanka-2027&theme=tokyonight" height="180em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanka-2027&theme=tokyonight&utcOffset=5.5" height="180em"/>
 </p>
 
-
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Priyanka-2027&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
 ### 🌟 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/Priyanka-2027"><img src="https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/priyanka-jakkampudi-222911323/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:priyankajakkampudi3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Priyanka-2027"><img src="https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/priyanka-jakkampudi-222911323/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/wtyBysvV3o/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:priyanka.jakkampudi3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+<b>� Actively seeking Software Engineering / AI-ML Internship Opportunities</b><br>
+<b>🚀 Passionate about building scalable systems that solve real-world problems</b>
 </p>
