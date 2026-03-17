@@ -26,7 +26,7 @@
 - 🎯 **Actively seeking Software Engineering & AI/ML roles** - Ready to contribute to innovative teams
 - 📍 **Based in India** - Open to remote and on-site opportunities
 - 🔥 Recent highlight: [**InsightX AI**](https://github.com/Priyanka-2027/InsightX) - Medical imaging analysis platform achieving **98% accuracy**
-- 🚀 Currently building: [**AP EAMCET College Predictor**](https://github.com/Priyanka-2027/Eamcet_college_predictor) – *Smart college prediction system using real admission data*
+- 🚀 Currently building: [**TalentHub**](https://github.com/Priyanka-2027/TalentHub) – *AI-powered recruitment platform with resume parsing and candidate matching*
 - 📫 Reach me at: **[priyanka.jakkampudi3@gmail.com](mailto:priyanka.jakkampudi3@gmail.com)**
 
 ---
@@ -42,7 +42,7 @@ AI/ML:            TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas
 Tools:            Git, GitHub, AWS, VS Code
 ```
 
-**Core Computer Science:** DSA , OOP , DBMS , Computer Networks 
+**Core Computer Science:** DSA • OOP • DBMS • Computer Networks • Deep Learning • System Design
 
 ---
 
