@@ -21,26 +21,67 @@
 
 - 🎓 **B.Tech CSE @ SRM University AP** - Building expertise in Computer Science fundamentals
 - 💻 **Full Stack Developer (MERN) + AI/ML Enthusiast** - Creating end-to-end digital solutions
-- � **Built 6+ real-world projects** in AI, Web Delvelopment, and Data Systems with production-ready code
+- 🚀 **Built 6+ real-world projects** in AI, Web Development, and Data Systems with production-ready code
 - 🧠 **Solved 250+ DSA problems** on LeetCode - Strong algorithmic problem-solving skills
 - 🎯 **Actively seeking Software Engineering & AI/ML roles** - Ready to contribute to innovative teams
-- � Recent highlight: [**InsightX AI**](https://github.com/Priyanka-2027/InsightX) - Medical imaging analysis platform achieving **98% accuracy**
-- � Currently building: [**AP EAMCET College Predictor**](https://github.com/Priyanka-2027/Eamcet_college_predictor) – *Smart college prediction system using real admission data*
-- �📫 Reach me at: **[priyanka.jakkampudi3@gmail.com](mailto:priyanka.jakkampudi3@gmail.com)**
-- ⚡ Fun fact: *I debug faster with ☕ coffee and architect scalable solutions that solve real problems*
+- 📍 **Based in India** - Open to remote and on-site opportunities
+- 🔥 Recent highlight: [**InsightX AI**](https://github.com/Priyanka-2027/InsightX) - Medical imaging analysis platform achieving **98% accuracy**
+- 🚀 Currently building: [**AP EAMCET College Predictor**](https://github.com/Priyanka-2027/Eamcet_college_predictor) – *Smart college prediction system using real admission data*
+- 📫 Reach me at: **[priyanka.jakkampudi3@gmail.com](mailto:priyanka.jakkampudi3@gmail.com)**
 
 ---
 
-### 🧠 Technology Stack 🛠️
+## 🧠 Technology Stack 🛠️
 
-**Languages:** C, C++, Java, Python, JavaScript, TypeScript  
-**Frontend:** React, HTML5, CSS3, Tailwind CSS  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB, MySQL  
-**AI/ML:** TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas  
-**Tools:** Git, GitHub, AWS  
+<div align="center">
 
-**Core CS:** DSA • OOP • DBMS • Computer Networks • Deep Learning
+### **Languages**
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+
+### **Frontend**
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+
+### **Backend & Database**
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+
+### **AI/ML & Data Science**
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+
+### **Tools & Platforms**
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+
+</div>
+
+**Core Computer Science:** DSA • OOP • DBMS • Computer Networks • Deep Learning • System Design
+
+---
+
+### 💡 What I Can Do
+
+✔️ **Build full-stack MERN applications** with modern UI/UX and scalable architecture  
+✔️ **Develop and deploy ML models** with 95%+ accuracy for real-world problems  
+✔️ **Design REST APIs and scalable backend systems** with optimized database queries  
+✔️ **Solve DSA problems efficiently** with strong algorithmic thinking (250+ solved)  
+✔️ **Work with real-world datasets and analytics** for data-driven insights  
+✔️ **Implement CI/CD pipelines** and deploy applications to cloud platforms
 
 ---
 
@@ -139,6 +180,10 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanka-2027&theme=tokyonight&utcOffset=5.5" height="180em"/>
 </p>
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Priyanka-2027&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
 ### 🌟 Connect with Me
 
 <p align="center">
@@ -151,5 +196,6 @@
 ---
 
 <p align="center">
-<i>💻 Open to internships and software engineering opportunities | Building the future with AI and full-stack innovation</i>
+<b>💼 Actively seeking Software Engineering / AI-ML Internship Opportunities</b><br>
+<b>🚀 Passionate about building scalable systems that solve real-world problems</b>
 </p>
