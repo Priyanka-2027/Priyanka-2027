@@ -42,7 +42,7 @@ AI/ML:            TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas
 Tools:            Git, GitHub, AWS, VS Code
 ```
 
-**Core Computer Science:** DSA • OOP • DBMS • Computer Networks • Deep Learning • System Design
+**Core Computer Science:** DSA , OOP , DBMS , Computer Networks  
 
 ---
 
