@@ -34,7 +34,7 @@
 ## 🧠 Technology Stack 🛠️
 
 ```
-Languages:        C, C++, Java, Python, JavaScript, TypeScript
+Languages:        C, C++, Java, Python, JavaScript, TypeScript.
 Frontend:         React, HTML5, CSS3, Tailwind CSS
 Backend:          Node.js, Express.js
 Database:         MongoDB, MySQL
