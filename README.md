@@ -19,7 +19,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 **B.Tech CSE @ SRM University AP** - Building expertise in Computer Science fundamentals.
+- 🎓 **B.Tech CSE @ SRM University AP** - Building expertise in Computer Science fundamentals
 - 💻 **Full Stack Developer (MERN) + AI/ML Enthusiast** - Creating end-to-end digital solutions
 - 🚀 **Built 6+ real-world projects** in AI, Web Development, and Data Systems with production-ready code
 - 🧠 **Solved 250+ DSA problems** on LeetCode - Strong algorithmic problem-solving skills
