@@ -1,173 +1,267 @@
-<p align="center"><img src="https://github.com/Priyanka-2027/Priyanka-2027/blob/main/banner.png?raw=true" alt="Banner" /></p>
+<div align="center">
 
-<h1 align="center">👋 Hi there! I'm Priyanka Jakkampudi</h1>
-<h3 align="center">💻 B.Tech Computer Science Student | Full Stack Developer | AI/ML Enthusiast</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Priyanka%20Jakkampudi&fontSize=46&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20B.Tech%20CSE%20%40%20SRM%20AP&descSize=15&descAlignY=60&descColor=a5f3c8&animation=twinkling" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2600&pause=900&color=6EE7B7&center=true&vCenter=true&width=680&lines=%3E+Medical+imaging+platform+%E2%80%94+98%25+diagnostic+accuracy+%F0%9F%8F%A5;%3E+Fraud+detection+system+%E2%80%94+99.8%25+precision+%F0%9F'%92%B3;%3E+Full+Stack+MERN+Developer+%2B+AI%2FML+Engineer+%F0%9F%A7%A0;%3E+250%2B+LeetCode+problems+solved+%E2%9C%85;%3E+Open+to+AI%2FML+%26+SWE+internship+roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-jakkampudi-222911323/)
+[![Portfolio](https://img.shields.io/badge/InsightX_Live-1a1a2e?style=for-the-badge&logo=vercel&logoColor=6EE7B7)](https://chanu716.github.io/InsightX/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/wtyBysvV3o/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanka.jakkampudi3@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanka-2027)
+
+</div>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Priyanka-2027&color=6EE7B7&style=flat-square&label=Profile+Views)
+&nbsp;
+![](https://img.shields.io/badge/CGPA-9.13%2F10-6EE7B7?style=flat-square&logo=academia&logoColor=white)
+&nbsp;
+![](https://img.shields.io/badge/DSA-250%2B%20Solved-818CF8?style=flat-square&logo=leetcode&logoColor=white)
+&nbsp;
+![](https://img.shields.io/badge/Projects-6%2B%20Shipped-F472B6?style=flat-square)
+
+</div>
 
 ---
 
-<p align="center">
-<a href="#-about-me"><img src="https://img.shields.io/badge/About-1E90FF?style=for-the-badge"/></a>
-<a href="#-technology-stack-️"><img src="https://img.shields.io/badge/Tech_Stack-1E90FF?style=for-the-badge"/></a>
-<a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-1E90FF?style=for-the-badge"/></a>
-<a href="#-experience"><img src="https://img.shields.io/badge/Experience-1E90FF?style=for-the-badge"/></a>
-<a href="#-certifications"><img src="https://img.shields.io/badge/Certifications-1E90FF?style=for-the-badge"/></a>
-<a href="#-github-stats"><img src="https://img.shields.io/badge/Stats-1E90FF?style=for-the-badge"/></a>
-<a href="#-connect-with-me"><img src="https://img.shields.io/badge/Connect-1E90FF?style=for-the-badge"/></a>
-</p>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280"/>
+
+## 🧠 About Me
+
+I'm a B.Tech CSE student at **SRM University AP (CGPA: 9.13)** who builds production-ready systems — from training deep learning models to shipping full-stack applications.
+
+I don't just study AI. I build with it.
+
+- 🏥 Built a medical imaging platform diagnosing **4 conditions at 98% accuracy**
+- 💳 Shipped a real-time fraud detection engine at **99.8% precision**
+- 🐾 Delivered full-stack product at Edubot — **cut API response time 40%**
+- 🚀 Currently building **TalentHub** — AI recruitment with resume parsing
+- 📍 Based in India · Available remote & on-site
+
+<br clear="right"/>
 
 ---
 
-### 👩‍💻 About Me
+## ⚡ Highlight Projects
 
-- 🎓 **B.Tech CSE @ SRM University AP** - Building expertise in Computer Science fundamentals.
-- 💻 **Full Stack Developer (MERN) + AI/ML Enthusiast** - Creating end-to-end digital solutions
-- 🚀 **Built 6+ real-world projects** in AI, Web Development, and Data Systems with production-ready code
-- 🧠 **Solved 250+ DSA problems** on LeetCode - Strong algorithmic problem-solving skills
-- 🎯 **Actively seeking Software Engineering & AI/ML roles** - Ready to contribute to innovative teams
-- 📍 **Based in India** - Open to remote and on-site opportunities
-- 🔥 Recent highlight: [**InsightX AI**](https://github.com/Priyanka-2027/InsightX) - Medical imaging analysis platform achieving **98% accuracy**
-- 🚀 Currently building: [**TalentHub**](https://github.com/Priyanka-2027/TalentHub) – *AI-powered recruitment platform with resume parsing and candidate matching*
-- 📫 Reach me at: **[priyanka.jakkampudi3@gmail.com](mailto:priyanka.jakkampudi3@gmail.com)**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 [InsightX AI](https://github.com/Priyanka-2027/InsightX)
+**Medical Imaging Analysis Platform**
+
+> 98% accuracy · Real-time inference · REST APIs
+
+Detects Brain MRI tumors, Chest X-rays, Kidney CT, and Bone fractures. Built multi-model pipelines with **EfficientNet + DenseNet** via TensorFlow & PyTorch.
+
+`TensorFlow` `PyTorch` `Flask` `Computer Vision`
+
+**[→ Live Demo](https://chanu716.github.io/InsightX/)**
+
+</td>
+<td width="50%" valign="top">
+
+### 💳 [Fraud Detection System](https://github.com/Priyanka-2027/Fraud_detecion_using_RandomForest)
+**Real-Time ML Screening Engine**
+
+> 99.8% precision · Sub-second response
+
+Benchmarked Logistic Regression, SVM, Decision Tree, and Random Forest. Built a **FastAPI backend** for live transaction analysis.
+
+`FastAPI` `Scikit-learn` `Random Forest` `Pandas`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐾 [PawMatch](https://github.com/Priyanka-2027/Pet-Adoption-Platform)
+**Full-Stack Pet Adoption Platform**
+
+> 40% faster APIs · Built during internship
+
+Shelter-to-adopter matching with real-time updates, advanced filtering, and secure auth. REST API optimization cut response time **by 40%**.
+
+`React` `TypeScript` `Tailwind CSS` `Supabase`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 [AP EAMCET Predictor](https://github.com/Priyanka-2027/Eamcet_college_predictor)
+**College Recommendation Engine**
+
+> 1000+ rank scenarios · JWT-secured
+
+Predicts eligible colleges from rank, category, gender & preferences using real historical cutoff data. Full auth + admin workflows.
+
+`React` `Node.js` `Express` `MongoDB` `JWT`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✈️ [Travellora](https://github.com/Priyanka-2027/Travellora-trip_planner_app-)
+**Interactive Travel Planner**
+
+Destination discovery + trip management with **Leaflet map integration** and real-time booking flows.
+
+`React` `Leaflet Maps` `Tailwind CSS`
+
+</td>
+<td width="50%" valign="top">
+
+### 👩‍💼 [Career Reboot AI](https://github.com/Priyanka-2027/career-reboot-ai)
+**AI Career Platform for Women**
+
+Personalized **skill gap analysis**, custom learning roadmaps, and mentor matching — built to empower women re-entering tech.
+
+`React` `TypeScript` `Tailwind CSS`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 Technology Stack 🛠️
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Tools & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Experience
+
+<table>
+<tr>
+<td>
+
+**Full Stack Developer Intern** · Edubot Technologies · `Jun 2025 – Jul 2025`
+
+- Built **PawMatch** end-to-end — React, TypeScript, Tailwind CSS, Supabase — production deployed
+- Designed REST APIs and optimized DB queries → **40% faster response times**
+- Implemented secure auth, real-time updates, wishlists, admin dashboards
+- Gained hands-on experience in complete product lifecycle from design to delivery
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Education & Certifications
+
+| Degree | Institution | Score | Year |
+|---|---|---|---|
+| B.Tech CSE | SRM University AP | **9.13 / 10** | 2023 – Present |
+| Higher Secondary (MPC) | — | **977 / 1000** | 2021 – 2023 |
+| Secondary Education | — | **593 / 600** | 2019 – 2021 |
+
+**Certifications:**
+&nbsp;
+![](https://img.shields.io/badge/MongoDB_Developer-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Node.js_Fundamentals-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/Data_Science_%26_EDA-818CF8?style=flat-square)
+![](https://img.shields.io/badge/Full--Stack_Web_Dev-EC5252?style=flat-square&logo=udemy&logoColor=white)
+![](https://img.shields.io/badge/AWS_Cloud_Fundamentals-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Priyanka-2027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=818CF8&text_color=c9d1d9&count_private=true" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka-2027&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=c9d1d9&langs_count=8" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=Priyanka-2027&theme=tokyonight&hide_border=true&background=0d1117&ring=6EE7B7&fire=818CF8&currStreakLabel=6EE7B7&sideLabels=c9d1d9&dates=888" width="56%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanka-2027&theme=tokyonight" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 Currently Building
 
 ```
-Languages:        C, C++, Java, Python, JavaScript, TypeScript.
-Frontend:         React, HTML5, CSS3, Tailwind CSS
-Backend:          Node.js, Express.js
-Database:         MongoDB, MySQL
-AI/ML:            TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas
-Tools:            Git, GitHub, AWS, VS Code
+▸ TalentHub        ████████░░░░  AI recruitment · resume parsing · candidate matching
+▸ LLM apps         █████░░░░░░░  Context-aware tools with large language models
+▸ DSA grind        ████████████  250+ solved · daily LeetCode practice
+▸ Model tuning     ██████░░░░░░  Advanced CV optimization & deployment
 ```
 
-**Core Computer Science:** DSA , OOP , DBMS , Computer Networks  
-
 ---
 
-### 💡 What I Can Do
+<div align="center">
 
-✔️ **Build full-stack MERN applications** with modern UI/UX and scalable architecture  
-✔️ **Develop and deploy ML models** with 95%+ accuracy for real-world problems  
-✔️ **Design REST APIs and scalable backend systems** with optimized database queries  
-✔️ **Solve DSA problems efficiently** with strong algorithmic thinking (250+ solved)  
-✔️ **Work with real-world datasets and analytics** for data-driven insights  
-✔️ **Implement CI/CD pipelines** and deploy applications to cloud platforms
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=twinkling" width="100%"/>
 
----
+### 🤝 Let's Connect
 
-### 🚀 Featured Projects
+**Actively seeking AI/ML & Full-Stack SWE roles — remote and on-site**
 
-#### 🧠 [**InsightX AI**](https://github.com/Priyanka-2027/InsightX) | [Live Demo](https://chanu716.github.io/InsightX/)
-*Medical Imaging Analysis Platform*
-- Built a **deep learning platform** that detects medical abnormalities from MRI, X-ray, and CT scans with **98% accuracy**
-- Implemented **EfficientNet and DenseNet models** for processing 3 imaging modalities with real-time analysis
-- **Tech Stack:** TensorFlow, PyTorch, Flask, Computer Vision
+*"I build AI systems end to end. From model to deployment, no gaps."*
 
-#### 🎓 [**AP EAMCET College Predictor**](https://github.com/Priyanka-2027/Eamcet_college_predictor)
-*Educational Platform*
-- Developed a **college prediction system** analyzing **1000+ rank scenarios** using real admission data
-- Features **JWT-secured dashboard** with personalized recommendations for informed decision-making
-- **Tech Stack:** React, Node.js, Express, MongoDB
+[![LinkedIn](https://img.shields.io/badge/Reach%20out%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-jakkampudi-222911323/)
+[![Gmail](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanka.jakkampudi3@gmail.com)
 
-#### 🐾 [**PawMatch - Pet Adoption Platform**](https://github.com/Priyanka-2027/Pet-Adoption-Platform)
-*Full Stack Application*
-- Created a comprehensive **pet adoption platform** connecting shelters with adopters
-- Implemented **real-time updates**, advanced filtering by breed/age/location, and secure authentication
-- **Tech Stack:** React, TypeScript, Tailwind CSS, Supabase
-
-#### 🛡️ [**Financial Fraud Detection System**](https://github.com/Priyanka-2027/Fraud_detecion_using_RandomForest)
-*Real-time ML System*
-- Developed a **machine learning system** achieving **99.8% accuracy** in detecting fraudulent transactions
-- Built **FastAPI backend** for real-time transaction analysis with sub-second response times
-- **Features:** Multiple ML model comparison (Logistic Regression, SVM, Decision Tree, Random Forest)
-- **Tech Stack:** Python, FastAPI, Scikit-learn, Pandas, NumPy
-
-#### ✈️ [**Travellora**](https://github.com/Priyanka-2027/Travellora-trip_planner_app-)
-*Travel Planning Platform*
-- Built an **interactive travel planning platform** with destination discovery and trip management
-- Integrated **Leaflet maps** for location search and real-time booking functionality
-- **Tech Stack:** React, Leaflet Maps, Tailwind CSS
-
-#### 🚀 [**Career Reboot AI**](https://github.com/Priyanka-2027/career-reboot-ai)
-*AI Career Platform*
-- Created an **AI-powered career platform** empowering women to restart their careers
-- Features **personalized skill gap analysis**, custom learning roadmaps, and mentor matching
-- **Tech Stack:** React, TypeScript, Tailwind CSS
-
----
-
-### 💼 Experience
-
-**Full Stack Developer Intern** | *Edubot Technologies* | *June 2025 – July 2025*
-- Developed **full-stack pet adoption platform** with secure authentication and real-time updates using React, TypeScript, and Tailwind CSS
-- Designed **REST APIs and optimized database queries** improving response time by 40% for seamless user workflows
-- Implemented **responsive UI components** improving user experience across devices and increasing mobile engagement
-- Built end-to-end features for **pet management, adoption tracking, and user profiles** with comprehensive admin dashboards
-- Collaborated with cross-functional teams to deliver **production-ready code** following industry best practices
-
----
-
-### 🏆 Certifications
-
-- 🎯 **Full Stack Web Development** - Udemy (2025)
-- 📊 **Data Science & EDA** - Scaler Topics (2025)  
-- ☁️ **AWS Cloud Fundamentals** - Scaler Topics (2025)
-- 🔧 **MERN Full Stack Web Development Internship** - Edubot Technologies (2025)
-
----
-
-### 🎯 Current Focus
-
-- 🔹 Building **AI-powered applications** with LLM integration for smarter, context-aware solutions
-- 🔹 Strengthening **Data Structures & Algorithms** via daily **LeetCode** practice (250+ problems solved)
-- 🔹 Exploring **advanced machine learning** techniques and model optimization
-- 🔹 Contributing consistently to **GitHub** through MERN & ML projects
-- 🔹 Preparing for **AI/ML & Full-Stack internships** and software engineering roles
-
-⭐ *Focused on merging AI with full-stack innovation to build impactful real-world solutions.*
-
----
-
-### 💡 Tech Interests
-
-- 🤖 **Artificial Intelligence & Machine Learning**
-- 🧠 **Large Language Models & Generative AI**
-- ⚙️ **Full Stack Development (MERN Stack)**
-- 🔍 **Computer Vision & Deep Learning**
-- ☁️ **AWS & Cloud Computing**
-- 📊 **Data Science & Analytics**
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanka-2027&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanka-2027&theme=tokyonight" height="180em"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanka-2027&theme=tokyonight&utcOffset=5.5" height="180em"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Priyanka-2027&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-### 🌟 Connect with Me
-
-<p align="center">
-<a href="https://github.com/Priyanka-2027"><img src="https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/priyanka-jakkampudi-222911323/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/wtyBysvV3o/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="mailto:priyanka.jakkampudi3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-<b>💼 Actively seeking Software Engineering / AI-ML Internship Opportunities</b><br>
-<b>🚀 Passionate about building scalable systems that solve real-world problems</b>
-</p>
+</div>
